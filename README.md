@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/shinmccold1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinmccold1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shinmccold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shinmccold" height="30" width="40" /></a>
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/shinmccold1">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB7WIF6ASVxvjmB7hqSn2Dg">
 </p>
 
 <hr>
