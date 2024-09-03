@@ -2,9 +2,15 @@
 
 <h3 align="center">Software Engineer | Technical Content Creator | AI Enthusiast</h3>
 <p align="center">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/shinmccold1">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB7WIF6ASVxvjmB7hqSn2Dg">  
-  <img src="https://komarev.com/ghpvc/?username=shinmccold&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="shinmccold" /> 
+  <a href="https://x.com/shinmccold1"> 
+     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/shinmccold1">
+  </a>
+   <a href="https://www.youtube.com/@shinmccold"> 
+      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB7WIF6ASVxvjmB7hqSn2Dg">  
+   </a>
+   <a href="https://x.com/shinmccold1"> 
+      <img src="https://komarev.com/ghpvc/?username=shinmccold&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="shinmccold" /> 
+   </a>
 </p>
 <p align="center">A back-end software developer. I love coding, recently go interested in AI so trying so thing's out. Beyond coding, I'm passionate about content-creation, animation and traveling.
   While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project.
