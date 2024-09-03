@@ -16,14 +16,7 @@
 - 🌱 I’m currently learning **AI Stuff**
 
 - 👨‍💻 All of my projects and articles are available at [https://shinmccold.github.io/](https://shinmccold.github.io/)
-<hr>
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/shinmccold1">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB7WIF6ASVxvjmB7hqSn2Dg">
-</p>
 
 
 
