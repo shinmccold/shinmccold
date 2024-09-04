@@ -19,6 +19,7 @@
 
 <hr>
 <h3 align="left">Stuff:</h3>
+
 - 🌱 I’m currently learning **AI Stuff**
 
 - 👨‍💻 All of my projects and articles are available at [https://shinmccold.github.io/](https://shinmccold.github.io/)
