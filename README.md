@@ -16,7 +16,6 @@
   While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project.
 </p>
 
-
 <hr>
 <h3 align="left">Stuff:</h3>
 
@@ -25,6 +24,10 @@
 - 👨‍💻 All of my projects and articles are available at [https://shinmccold.github.io/](https://shinmccold.github.io/)
 
 
+<hr>
+<h3 align="left">Get in Touch:</h3>
+
+- 📫 Email: **shinmccold@yahoo.com**
 
 
 <hr>
